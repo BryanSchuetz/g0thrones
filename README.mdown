@@ -1,6 +1,6 @@
 #Gam3 0f Thr0n3s keyword filter Safari Extension
 
-I'm avoiding all the spoilers for G0T because I prefer to wit for the book. This is proving hard to do as my favorite magazines seem to want to publish clever "think-pieces" on the show daily. So, here's a Safari extension that leverages my [Twitter Keyword Filter List](https://gist.githubusercontent.com/BryanSchuetz/88f737e2481baa756131a86e241347b6/raw/7cf713083de45d8390bd8acec6d6d9d615424fb7/filter.json) to replace any revealing text with '...Spoilers...'.
+I'm avoiding all the spoilers for G0T because I prefer to wait for the book. This is proving hard to do as my favorite magazines seem to want to publish clever "think-pieces" on the show daily. So, here's a Safari extension that leverages my [Twitter Keyword Filter List](https://gist.githubusercontent.com/BryanSchuetz/88f737e2481baa756131a86e241347b6/raw/7cf713083de45d8390bd8acec6d6d9d615424fb7/filter.json) to replace any revealing text with '...Spoilers...'.
 
 ![screenshot](screenshot.jpg)
 
